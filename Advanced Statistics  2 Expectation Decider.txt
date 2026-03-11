@@ -1,0 +1,118 @@
+1. Understanding the Basics
+
+what is a Probability 
+
+Experiment
+
+Outcome
+
+Event
+
+Sample Space
+
+Three probability example 
+
+Example:
+
+Student passes the exam
+
+Student attendance > 80%
+
+Student participates in group discussion
+
+2. Types of Events
+
+(Empirical Probability)
+
+P(E) = Number of favorable outcomes / total observation
+
+Example:
+
+Probability that a student passes the exam
+
+Probability that a student attends more than 80% classes
+
+3. Random Variable & Probability Distribution
+
+Possible values:
+
+0 students pass
+
+1 student passes
+
+2 students pass
+
+3 students pass
+
+X	P(X)
+0	...
+1	...
+2	...
+3	...
+
+4. Venn Diagram in Probability
+
+Students who study more than 10 hours per week
+
+Students who attend more than 80% classes
+
+बीच का overlap दिखाना है जहाँ students दोनों conditions satisfy करते हैं।
+
+5. Contingency Table & Probability Calculations
+
+इस task में आपको contingency table बनानी है।
+
+Columns:
+
+Group Discussion (Yes / No)
+
+Rows:
+
+Final Exam Pass (Pass / Fail)
+
+Example Table:
+
+	Discussion Yes	Discussion No
+Pass		
+Fail		
+
+
+1. Joint Probability
+
+Probability that student participates in discussion AND passes
+
+2. Marginal Probability
+
+Probability that student passes exam
+
+3. Conditional Probability
+
+Probability that student passes exam given they participated in discussion
+
+6. Understanding Relationships
+
+Participating in group discussions और passing the exam
+
+ये:
+
+Independent events हैं
+
+Dependent events हैं
+
+Mutually exclusive events हैं
+
+7. Bayes Theorem 
+
+90% students who pass have high attendance (>80%)
+
+40% students who fail have high attendance
+
+60% of all students have high attendance
+
+Probability that a student passed the exam given that they had high attendance
+
+Formula:
+
+P(Pass High Attendance ) = P(High Attendance Pass x P(Pass) / P(High Attendance)
+
+
